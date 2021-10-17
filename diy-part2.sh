@@ -50,6 +50,10 @@ rm -rf ../lean/luci-app-docker
 git clone --depth=1 https://github.com/lisaac/luci-app-dockerman
 git clone --depth=1 https://github.com/lisaac/luci-lib-docker
 
+# Add luci-app-jd-dailybonus
+rm -rf ../lean/luci-app-jd-dailybonus
+git clone --depth=1 https://github.com/jerrykuku/luci-app-jd-dailybonus
+
 # Add luci-theme-argon
 git clone --depth=1 -b 18.06 https://github.com/jerrykuku/luci-theme-argon
 git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
