@@ -47,10 +47,6 @@ git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 # Add luci-app-onliner
 git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 
-# Add luci-app-jd-dailybonus
-rm -rf ../lean/luci-app-jd-dailybonus
-git clone --depth=1 https://github.com/jerrykuku/luci-app-jd-dailybonus
-
 # Add luci-theme-argon
 git clone --depth=1 -b 18.06 https://github.com/jerrykuku/luci-theme-argon
 git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
