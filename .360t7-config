@@ -278,3 +278,8 @@ CONFIG_first_card_name="MT7981"
 # CONFIG_MTK_SNIFFER_RADIOTAP_SUPPORT is not set
 CONFIG_PACKAGE_kmod-ipt-offload=n
 CONFIG_PACKAGE_kmod-nf-flow=n
+
+CONFIG_PACKAGE_autocore-arm=y
+CONFIG_PACKAGE_coremark=y
+CONFIG_PACKAGE_iperf3=y
+
