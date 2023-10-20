@@ -27,7 +27,8 @@ git clone --depth=1 https://github.com/Lienol/openwrt-package
 
 # Add luci-app-passwall
 git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall
-git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall2
+git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall-packages
+#git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall2
 git clone --depth=1 -b luci https://github.com/xiaorouji/openwrt-passwall.git luci-app-passwall
 
 # Add luci-app-vssr <M>
